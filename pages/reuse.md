@@ -5,8 +5,6 @@ permalink: /reuse/
 collection: liturgical
 ---
 
-Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable.
-
-Below is the data used in Liturgical Books.
+Below is the data used in "Liturgical Books." Feel free to reuse according to the terms of our [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 {% include interactive_metadata_table.html collection=page.collection %}
