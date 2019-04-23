@@ -23,8 +23,14 @@ Compline | 6:00
 
 ---
 
-## Images for {{page.title}}
-
-
+## Browse by Image
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="The Divine Office" %}
+
+---
+
+## Browse by Label
+
+{% for item in site.liturgical %}{% if item.tag == page.title %}
+[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+{% else %}{% endif %}{% endfor %}

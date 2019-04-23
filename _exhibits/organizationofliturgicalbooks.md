@@ -33,11 +33,17 @@ Clearly, the arrangement of books for the Mass and books for the Office is paral
 
 ---
 
-## Images for {{page.title}}
-
-
+## Browse by Image
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Organization of Liturgical Books" %}
+
+---
+
+## Browse by Label
+
+{% for item in site.liturgical %}{% if item.tag == page.title %}
+[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+{% else %}{% endif %}{% endfor %}
 
 <!-- ---
 

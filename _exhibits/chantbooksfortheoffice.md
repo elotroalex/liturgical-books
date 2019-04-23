@@ -12,11 +12,17 @@ Hymns can appear in an antiphoner or breviary at their place within each service
 
 ---
 
-## Images for {{page.title}}
-
-
+## Browse by Image
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Chant Books for the Office" %}
+
+---
+
+## Browse by Label
+
+{% for item in site.liturgical %}{% if item.tag == page.title %}
+[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+{% else %}{% endif %}{% endfor %}
 
 <!-- ---
 

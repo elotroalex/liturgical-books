@@ -14,11 +14,17 @@ A processional contains the chants sung during the processions on certain import
 
 ---
 
-## Images for {{page.title}}
-
-
+## Browse by Image
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Chant Books for the Mass" %}
+
+---
+
+## Browse by Label
+
+{% for item in site.liturgical %}{% if item.tag == page.title %}
+[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+{% else %}{% endif %}{% endfor %}
 
 <!-- ---
 

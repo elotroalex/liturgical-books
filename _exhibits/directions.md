@@ -10,12 +10,17 @@ The public and ritual nature of liturgical services implies the necessity of cor
 
 ---
 
-## Images for {{page.title}}
-
-
+## Browse by Image
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Directions" %}
 
+---
+
+## Browse by Label
+
+{% for item in site.liturgical %}{% if item.tag == page.title %}
+[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+{% else %}{% endif %}{% endfor %}
 <!-- ---
 
 X936.C28, f. 7r: A missal from 15th-century Germany.

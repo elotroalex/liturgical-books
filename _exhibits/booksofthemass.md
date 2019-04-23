@@ -14,8 +14,6 @@ Christianity, as many other religions, relies on the Word, a written text - in t
 
 ## Browse by Image
 
-
-
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Books of the Mass" %}
 
 ---
