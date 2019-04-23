@@ -1,0 +1,22 @@
+---
+layout: none
+---
+{
+  "@type": "oa:Annotation",
+  "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/annotation/barnard40v.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/images/barnard40v/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/images/barnard40v",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 800,
+    "height": 1200
+  },
+  "on": "{{ '' | absolute_url }}/img/derivatives/iiif/canvas/barnard40v.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

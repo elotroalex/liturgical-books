@@ -1,0 +1,406 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/collection/liturgical.json",
+  "@type": "sc:Collection",
+  "label": "liturgical",
+  "manifests": [
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/x936_C28_f7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "x936_C28_f7"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/barnard1_189/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "barnard1_189"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/smith16_f116v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "smith16_f116v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/typographical2_f1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "typographical2_f1"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_sept/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_sept"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton040C_f2v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton040C_f2v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med_ren9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med_ren9"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/typographical2_f46/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "typographical2_f46"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimp170_64/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimp170_64"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/x936c28/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "x936c28"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/uts19/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uts19"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton041_f1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton041_f1"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/barnard49v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "barnard49v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/typographical2_f81/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "typographical2_f81"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/x936_C28_f1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "x936_C28_f1"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/x936c28_f214/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "x936c28_f214"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton055_f1v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton055_f1v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/western38_f137/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "western38_f137"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton040G_recto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton040G_recto"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_apr/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_apr"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton03_f45/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton03_f45"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med26_verso/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med26_verso"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/smith22/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "smith22"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/west31/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "west31"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimp211_137/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimp211_137"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_july/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_july"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimp135/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimp135"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/western38_ff193/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "western38_ff193"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/typographical2_f46_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "typographical2_f46_2"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton064_f2v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton064_f2v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_june/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_june"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/barnard42v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "barnard42v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_mar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_mar"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton265/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton265"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_feb/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_feb"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton050_f11v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton050_f11v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/smith24/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "smith24"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton033_recto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton033_recto"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/uts43/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uts43"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/western49_recto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "western49_recto"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_dec/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_dec"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/uts03_f135v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uts03_f135v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/m4885/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "m4885"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/barnard22v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "barnard22v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_may/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_may"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_aug/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_aug"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/barnard40v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "barnard40v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/benjamin2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "benjamin2"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med_ren62/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med_ren62"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med86/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med86"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/smith01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "smith01"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/smith15/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "smith15"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton268/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton268"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton084_f103/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton084_f103"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/typographical2_f15/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "typographical2_f15"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_oct/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_oct"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/smith14_recto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "smith14_recto"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/western62/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "western62"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton042_f1v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton042_f1v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med_ren71/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med_ren71"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton084_f66v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton084_f66v"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimp176/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimp176"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/uts60_ff6v7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uts60_ff6v7"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/music00_f2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "music00_f2"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med28_f2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med28_f2"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimp40c/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimp40c"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med24_f1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med24_f1"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimp40b/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimp40b"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton035/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton035"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/ben_ms3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ben_ms3"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/med_ren5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "med_ren5"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/uts3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uts3"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton034/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton034"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/western29/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "western29"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/uts03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uts03"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_jan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_jan"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton084_f9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton084_f9"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_nov/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "plimpton254_nov"
+    },
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/barnard7v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "barnard7v"
+    }
+  ]
+}

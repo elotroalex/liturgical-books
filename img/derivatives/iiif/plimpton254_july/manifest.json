@@ -1,0 +1,48 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/plimpton254_july/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "plimpton254_july",
+  "thumbnail": "{{ '' | absolute_url }}/img/derivatives/iiif/images/plimpton254_july/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/sequence/plimpton254_july.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/canvas/plimpton254_july.json",
+          "label": "front",
+          "width": 1600,
+          "height": 2400,
+          "thumbnail": "{{ '' | absolute_url }}/img/derivatives/iiif/images/plimpton254_july/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/annotation/plimpton254_july.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/images/plimpton254_july/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/images/plimpton254_july",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 800,
+                "height": 1200
+              },
+              "on": "{{ '' | absolute_url }}/img/derivatives/iiif/canvas/plimpton254_july.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

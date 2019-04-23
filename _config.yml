@@ -18,22 +18,21 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Liturgical Books'
+description:      'A sampler of RBML Liturgical Books'
 url:              ''
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
-logo:             '/assets/logo.png'
+baseurl:          '/liturgical'
+copyright:        'CC-BY 4.0 International'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
+theme:            wax_theme
 permalink:        'pretty'
-sass:
-    style: compressed
-exclude: [Gemfile*,Rakefile,vendor,spec,README.md,wax_theme,package.json]
+safe:             true
+exclude:          [Gemfile*, Rakefile, vendor, spec, README.md, wax_theme]
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
@@ -51,13 +50,21 @@ webrick:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+  # qatar: # name of collection
+  #   output: true # makes sure pages are output as html files
+  #   layout: 'qatar_item' # the layout for the pages to use
+  #   metadata:
+  #     source: 'qatar.csv' # path to the metadata file within `_data`
+  #   images:
+  #     source: 'raw_images/qatar' # path to the directory of images within `_data`
+
+  liturgical:
+    output: true
+    layout: 'liturgical_item'
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'liturgical.csv'
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/liturgical'
 
 # --------------------------------------------------------------
 # LUNR SEARCH INDEX SETTINGS
@@ -70,18 +77,14 @@ collections:
 # and running `$ bundle exec rake wax:lunr UI=true`.
 
 lunr_index:
-  - file: '/search/index.json' # file the index will get written to
-    ui:   '/search/ui.js' # path to the search UI file
+  - file: 'js/lunr-index.json' # file the index will get written to
+    ui:   'js/lunr-ui.js' # path to the search UI file
     collections:
-      qatar:
+      liturgical:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - tag
           - label
-          - _date
-          - object_type
-          - current_location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -100,17 +103,44 @@ menu:
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
+    link: /exhibits/toc/
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
     link: '/reuse/'
+    # sub:
+    #   - label: 'Books of the Mass'
+    #     link: '/exhibits/booksofthemass/'
+    #   - label: 'Books of the Office'
+    #     link: '/exhibits/booksoftheoffice/'
+    #   - label: 'Calendar'
+    #     link: '/exhibits/calendar/'
+    #   - label: 'Chant Books of the Mass'
+    #     link: '/exhibits/chantbooksofthemass/'
+    #   - label: 'Chapter'
+    #     link: '/exhibits/chapter/'
+    #   - label: 'Common Versus Proper'
+    #     link: '/exhibits/commonversusproper/'
+    #   - label: 'Computus'
+    #     link: '/exhibits/computus/'
+    #   - label: 'Directions'
+    #     link: '/exhibits/directions/'
+    #   - label: 'Home'
+    #     link: '/exhibits/homepage/'
+    #   - label: 'Liturgical Year'
+    #     link: '/exhibits/liturgicalyear/'
+    #   - label: 'Organization of Liturgical Books'
+    #     link: '/exhibits/organizationofliturgicalbooks/'
+    #   - label: 'The Divine Office'
+    #     link: '/exhibits/thedivineoffice/'
+    #   - label: 'The Mass'
+    #     link: '/exhibits/themass/'
+    #   - label: 'Web Resources'
+    #     link: '/exhibits/webresources/'
+  - label: 'Search'
+    link: '/search/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

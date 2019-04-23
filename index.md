@@ -2,16 +2,20 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  collection: liturgical
+  pid: barnard22v
   y: 25%
-  height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+Liturgy may be defined as the practice of organized, formal worship. It is the ensemble of texts, music (books and instruments), movements, vestments, vessels, and even the buildings and the interaction of all of these used by a group of people to worship God. Liturgy encompasses two main types of service: the Mass and the Divine Office. But a definition of liturgy as public worship also includes group practices such as processions in conjunction with a Mass or an Office, and the chapter meetings associated with the Divine Office of the religious orders.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Western liturgical practice varied tremendously across time, from place to place, and in many specific communities. Manuscripts from the ninth century reveal efforts towards a pan-European unified liturgy initiated under the impetus of the Frankish emperor, Charlemagne, based primarily on Roman practices but with Gallican influence.
 
-### Browse the Collection
+In a proclamation that Charlemagne issued in the year 789, he ordered that monasteries and cathedrals should all have well corrected copies of the psalms, the "notes" (perhaps the shorthand system for texts, or perhaps the musical notation itself), the chants, a computus, and a grammar. He added that young boys should not be allowed to copy gospel books, psalters, or missals, but only mature men should do so, whose greater knowledge --including, presumably, that of Latin itself-- would preclude profusion of errors in the manuscripts.
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+Nevertheless, surviving liturgical manuscripts evince the multiplicity of practices of the later Middle Ages. The significant development at this point was a form of the liturgy that arose in the papal chapel in Rome during the twelfth century and that was carried to all parts of the western world by the Franciscans during the thirteenth century and by the printing press from the mid-1400s onwards. This form, termed the Roman rite, has a much broader compass than the city of Rome alone. Major dioceses, however, had their own rites. The liturgy in monasteries continued to differ from the use of secular churches, and was also geographically varied. With the pressures of the Reformation and Counter-Reformation, and aided by the printing press, the Council of Trent (1545-63) imposed a normative liturgy on most Catholics. It remained essentially in place until the Second Vatican Council (1962-65).
+
+Note: On the following pages, all manuscript citations are understood to be held by Columbia University, Rare Book and Manuscript Library.
+
+
+{% include collection_gallery.html facet_by='tag' collection='liturgical' %}
