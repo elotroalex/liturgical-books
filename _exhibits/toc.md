@@ -7,7 +7,9 @@ permalink: /exhibits/toc/
 ---
 
 <ul>
-	{% for exhibit in site.exhibits %}
-	<li><a href="{{ site.baseurl }}{{ exhibit.permalink }}">{{ exhibit.title }}</a></li>
+	{% for item in site.exhibits %}
+		{% unless item.title == "Table of Contents" %}
+		<li><a href="{{ site.baseurl }}{{ item.permalink }}">{{ item.title }}</a></li>
+		{% endunless %}
 	{% endfor %}
 </ul>
