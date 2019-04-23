@@ -14,7 +14,9 @@ After the readings in chapter, the assignments to various monks of chants and re
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Chapter" %}
 

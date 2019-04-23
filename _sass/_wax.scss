@@ -40,6 +40,19 @@ p {
   text-rendering: optimizeLegibility;
 }
 
+
+// Liturgical additions
+
+ol.bibliography {
+
+    list-style-type: none;
+    text-indent: -2rem;
+  }
+
+ol.bibliography li {
+  margin-bottom: 1rem;
+}
+
 /*
 
 header & nav bar

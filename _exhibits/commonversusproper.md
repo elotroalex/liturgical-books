@@ -12,7 +12,9 @@ The dispersed arrangement of texts certainly caused problems to young monks and 
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Common versus Proper" %}
 

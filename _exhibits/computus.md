@@ -14,7 +14,9 @@ Accompanying these handy mechanisms for determining the date of Easter were many
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Computus" %}
 

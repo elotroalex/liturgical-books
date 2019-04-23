@@ -20,7 +20,9 @@ More than one inexperienced scholar has taken the decorative A on 1 January to r
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Calendar" %}
 

@@ -20,7 +20,9 @@ A homiliary contains homilies on the Gospel readings of the day. They were the s
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Books of the Office" %}
 

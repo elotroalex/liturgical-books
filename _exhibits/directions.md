@@ -10,7 +10,9 @@ The public and ritual nature of liturgical services implies the necessity of cor
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Directions" %}
 

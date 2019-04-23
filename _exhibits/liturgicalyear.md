@@ -20,7 +20,9 @@ Hagiographic emphasis, especially if the saint is venerated only in one communit
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="Liturgical Year" %}
 

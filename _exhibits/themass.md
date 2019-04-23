@@ -14,7 +14,9 @@ The Canon begins with the prayer, "Te igitur," whose initial T is often hierarch
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="The Mass" %}
 

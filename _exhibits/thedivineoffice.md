@@ -23,6 +23,8 @@ Compline | 6:00
 
 ---
 
-## Images
+## Images for {{page.title}}
+
+
 
 {% include collection_gallery.html collection="liturgical" facet_by="tag" only="The Divine Office" %}
