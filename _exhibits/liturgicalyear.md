@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: "Liturgical Year"
+title: "The Liturgical Year"
 editor: John Glasenapp
 publish_date: 2018-11-15
 permalink: /exhibits/liturgicalyear/
@@ -22,14 +22,14 @@ Hagiographic emphasis, especially if the saint is venerated only in one communit
 
 ## Browse by Image
 
-{% include collection_gallery.html collection="liturgical" facet_by="tag" only="Liturgical Year" %}
+{% include collection_gallery.html collection="liturgical" facet_by="tag" only="The Liturgical Year" %}
 
 ---
 
 ## Browse by Label
 
 {% for item in site.liturgical %}{% if item.tag == page.title %}
-[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+- [{{item.label | remove: 'New York, Columbia University, ' }}]({{site.baseurl}}{{item.permalink}})
 {% else %}{% endif %}{% endfor %}
 
 <!-- ---

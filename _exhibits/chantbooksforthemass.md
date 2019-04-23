@@ -23,7 +23,7 @@ A processional contains the chants sung during the processions on certain import
 ## Browse by Label
 
 {% for item in site.liturgical %}{% if item.tag == page.title %}
-[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+- [{{item.label | remove: 'New York, Columbia University, ' }}]({{site.baseurl}}{{item.permalink}})
 {% else %}{% endif %}{% endfor %}
 
 <!-- ---

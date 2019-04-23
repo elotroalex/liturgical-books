@@ -23,7 +23,7 @@ The Canon begins with the prayer, "Te igitur," whose initial T is often hierarch
 ## Browse by Label
 
 {% for item in site.liturgical %}{% if item.tag == page.title %}
-[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+- [{{item.label | remove: 'New York, Columbia University, ' }}]({{site.baseurl}}{{item.permalink}})
 {% else %}{% endif %}{% endfor %}
 
 <!-- ---

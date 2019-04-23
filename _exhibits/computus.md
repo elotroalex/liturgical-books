@@ -23,7 +23,7 @@ Accompanying these handy mechanisms for determining the date of Easter were many
 ## Browse by Label
 
 {% for item in site.liturgical %}{% if item.tag == page.title %}
-[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+- [{{item.label | remove: 'New York, Columbia University, ' }}]({{site.baseurl}}{{item.permalink}})
 {% else %}{% endif %}{% endfor %}
 
 <!-- ---

@@ -1,7 +1,7 @@
 ---
 pid: plimp176
 tag: Calendar
-label: New York, Columbia University, Rare Book and Manuscript Library, ÊPlimpton
+label: New York, Columbia University, Rare Book and Manuscript Library, Plimpton
   MS 176, f. 5r
 scriptorium: http://servlet1.lib.berkeley.edu:8080/seadragonwindow/?IIIF=/ds/columbia/tiles/NNC-RBML.2636A_tile.tif/info.json&
 scriptorium_metadata: http://www.digital-scriptorium.org/xtf3/search?rmode=digscript;smode=basic;text=%C2%A0Plimpton%20MS%20176;docsPerPage=1;startDoc=1;fullview=yes

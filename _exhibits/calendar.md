@@ -16,8 +16,6 @@ The Golden Numbers represent the 19-year solar cycle and its 235 lunations that 
 
 More than one inexperienced scholar has taken the decorative A on 1 January to represent a real Sunday and thus dated his manuscript to one of the several possible years when Sunday fell on the first of the year. Another pitfall for the unwary lies in the occasional presence of an entry for "Resurrectio Domini" on 27 March; the entry sometime reads, with more accuracy, "Resurrectio Domini vera," meaning that in the year 33, the first Easter Sunday occurred on that date.
 
-{% include collection_gallery.html collection="liturgical" facet_by="tag" only="Calendar" %}
-
 ---
 
 ## Browse by Image
@@ -29,7 +27,7 @@ More than one inexperienced scholar has taken the decorative A on 1 January to r
 ## Browse by Label
 
 {% for item in site.liturgical %}{% if item.tag == page.title %}
-[{{item.label}}]({{site.baseurl}}{{item.permalink}})
+- [{{item.label | remove: 'New York, Columbia University, ' }}]({{site.baseurl}}{{item.permalink}})
 {% else %}{% endif %}{% endfor %}
 
 <!-- ---

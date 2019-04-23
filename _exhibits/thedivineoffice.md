@@ -12,25 +12,11 @@ As originated by Benedict, the Office would occupy some four to five hours of a 
 
 The eight services, with a highly simplified outline of their times (which would have varied according to local custom, as well as geographical and seasonal determination of the amount of daylight available):
 
-Matins | 2:30 am
-Lauds | 5:00
-Prime | 6:00
-Terce | 9:00 (the daily Mass usually took place after Terce)
-Sext | noon
-None | 3:00 pm
-Vespers | 4:30
-Compline | 6:00
-
----
-
-## Browse by Image
-
-{% include collection_gallery.html collection="liturgical" facet_by="tag" only="The Divine Office" %}
-
----
-
-## Browse by Label
-
-{% for item in site.liturgical %}{% if item.tag == page.title %}
-[{{item.label}}]({{site.baseurl}}{{item.permalink}})
-{% else %}{% endif %}{% endfor %}
+Matins |   | 2:30 AM
+Lauds |   | 5:00 AM
+Prime |   | 6:00 AM
+Terce |   | 9:00 AM
+Sext |   | Noon
+None |   | 3:00 PM
+Vespers |   | 4:30 PM
+Compline |   | 6:00 PM
