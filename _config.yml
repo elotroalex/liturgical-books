@@ -21,7 +21,7 @@
 title:            'Liturgical Books'
 description:      'A sampler of RBML Liturgical Books'
 url:              ''
-baseurl:          '/liturgical'
+baseurl:          '/liturgical-books'
 copyright:        'CC-BY 4.0 International'
 
 # ---------------------------------------------------------------
