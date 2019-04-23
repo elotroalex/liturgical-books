@@ -40,7 +40,7 @@
         buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
 
         for (i in facets) {
-          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i]}</button>`);
+          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i].replace(/-/g, ' ') }</button>`);
         }
 
         $(document).ready(function(){

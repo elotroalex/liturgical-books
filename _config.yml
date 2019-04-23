@@ -98,8 +98,6 @@ menu:
     link: '/credits/'
   - label: 'Exhibits'
     link: /exhibits/toc/
-  - label: 'Browse'
-    link: '/collection/'
   - label: 'Reuse'
     link: '/reuse/'
     # sub:

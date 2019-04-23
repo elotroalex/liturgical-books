@@ -15,7 +15,10 @@ In a proclamation that Charlemagne issued in the year 789, he ordered that monas
 
 Nevertheless, surviving liturgical manuscripts evince the multiplicity of practices of the later Middle Ages. The significant development at this point was a form of the liturgy that arose in the papal chapel in Rome during the twelfth century and that was carried to all parts of the western world by the Franciscans during the thirteenth century and by the printing press from the mid-1400s onwards. This form, termed the Roman rite, has a much broader compass than the city of Rome alone. Major dioceses, however, had their own rites. The liturgy in monasteries continued to differ from the use of secular churches, and was also geographically varied. With the pressures of the Reformation and Counter-Reformation, and aided by the printing press, the Council of Trent (1545-63) imposed a normative liturgy on most Catholics. It remained essentially in place until the Second Vatican Council (1962-65).
 
-Note: On the following pages, all manuscript citations are understood to be held by Columbia University, Rare Book and Manuscript Library.
+<!-- Note: On the following pages, all manuscript citations are understood to be held by Columbia University, Rare Book and Manuscript Library. -->
 
+---
+
+## Quick Browse
 
 {% include collection_gallery.html facet_by='tag' collection='liturgical' %}
