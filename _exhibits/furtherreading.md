@@ -1,5 +1,5 @@
 ---
-layout: exhibit
+layout: page
 title: "Further Reading"
 editor: John Glasenapp
 publish_date: 2018-11-15

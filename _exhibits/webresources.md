@@ -1,5 +1,5 @@
 ---
-layout: exhibit
+layout: page
 title: "Web Resources"
 editor: John Glasenapp
 publish_date: 2018-11-15
