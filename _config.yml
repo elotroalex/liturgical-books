@@ -94,12 +94,15 @@ lunr_index:
 # submenu via `sub`.
 
 menu:
-  - label: 'Credits'
-    link: '/credits/'
-  - label: 'Exhibits'
+  - label: 'Browse'
     link: /exhibits/toc/
+  - label: 'Search'
+    link: '/search/'
   - label: 'Reuse'
     link: '/reuse/'
+  - label: 'Credits'
+    link: '/credits/'
+
     # sub:
     #   - label: 'Books of the Mass'
     #     link: '/exhibits/booksofthemass/'
@@ -129,8 +132,6 @@ menu:
     #     link: '/exhibits/themass/'
     #   - label: 'Web Resources'
     #     link: '/exhibits/webresources/'
-  - label: 'Search'
-    link: '/search/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
