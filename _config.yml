@@ -77,14 +77,16 @@ collections:
 # and running `$ bundle exec rake wax:lunr UI=true`.
 
 lunr_index:
-  - file: 'js/lunr-index.json' # file the index will get written to
-    ui:   'js/lunr-ui.js' # path to the search UI file
+  - file: 'search-index.json' # file the index will get written to
+    ui:   'js/search-ui.js' # path to the search UI file
     collections:
       liturgical:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - tag
           - label
+          - description
+          - location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

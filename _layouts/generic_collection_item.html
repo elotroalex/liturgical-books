@@ -6,7 +6,8 @@ layout: default
   The block below controls the image viewer
 {% endcomment %}
 
-<h3 alt="{{ page.label }}" class='item-label'>{{ page.label | remove: 'New York, Columbia University, '  }}</h3> 
+<h3 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h3> 
+<h4 alt="{{ page.location_short }}" class='item-location'>{{ page.location_short }}</h4> 
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}

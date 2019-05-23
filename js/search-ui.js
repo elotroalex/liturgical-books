@@ -30,7 +30,7 @@ $.getJSON("{{ 'search-index.json' | absolute_url }}", function(index_json) {
       var item = store[ref];
       var pid = item.pid;
       var label = item.label;
-      var meta = `${item.link} | ${item.collection} | ${item.artist}`;
+      var meta = `in ${item.tag} `;
       if ('thumbnail' in item) {
         var thumb = `<img class='sq-thumb-sm' src='{{ "" | absolute_url }}${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
       }
