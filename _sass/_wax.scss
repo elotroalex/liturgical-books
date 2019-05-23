@@ -471,8 +471,8 @@ search box
       padding: 0;
       margin: .25rem;
       background-color: #ffffff;
-      max-height: 120px;
-      max-width: 120px;
+      max-height: 140px;
+      max-width: 140px;
       border: 1px grey solid;
 
       .gallery-thumb {
@@ -517,11 +517,11 @@ search box
           -ms-transform: scale(0);
           transform: scale(0);
           font-weight: normal;
-          font-size: 1rem;
+          font-size: .9rem;
           line-height: 1rem;
           overflow: hidden;
           display: table-cell;
-          padding: .5rem;
+          padding: .4rem;
           vertical-align: center;
         }
 

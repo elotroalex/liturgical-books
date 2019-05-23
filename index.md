@@ -21,4 +21,4 @@ Nevertheless, surviving liturgical manuscripts evince the multiplicity of practi
 
 ## Quick Browse
 
-{% include collection_gallery.html collection="liturgical" facet_by="tag" %}
+{% include collection_gallery.html collection="liturgical" %}

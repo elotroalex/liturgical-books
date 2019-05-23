@@ -1,6 +1,6 @@
 ---
 pid: typographical2_f15
-label: Antiphon, "Confortate manus dissolutas"
+label: Antiphon, 'Confortate manus dissolutas'
 tag: Books of the Office
 location: New York, Columbia University, Rare Book and Manuscript Library,  Typographical
   MS 2, f. 15r detail

@@ -1,6 +1,6 @@
 ---
 pid: typographical2_f46
-label: Canticle, "Benedictus"
+label: Canticle, 'Benedictus'
 tag: Books of the Office
 location: New York, Columbia University, Rare Book and Manuscript Library,  Typographical
   MS 2, f. 46r

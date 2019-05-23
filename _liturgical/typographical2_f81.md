@@ -1,6 +1,6 @@
 ---
 pid: typographical2_f81
-label: Hymn, "Consors paterni luminis lux"
+label: Hymn, 'Consors paterni luminis lux'
 tag: Books of the Office
 location: New York, Columbia University, Rare Book and Manuscript Library,  Typographical
   MS 2, f. 81r
