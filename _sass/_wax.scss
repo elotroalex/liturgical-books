@@ -34,7 +34,7 @@ p {
   margin-bottom: $less-margin;
   letter-spacing: .02rem;
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.75rem;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -173,7 +173,7 @@ content section
   li {
     font-family: $body-font;
     color: $text-color;
-    font-size: 1rem;
+    font-size: 1.25rem;
     line-height: 2rem;
     max-width: 100%;
   }
@@ -182,7 +182,7 @@ content section
     min-height: 70vh;
 
     .exhibit-meta {
-      margin-bottom: $super-margin;
+      margin-bottom: $margin;
 
       .exhibit-author {
         margin-top: $more-margin;
@@ -462,7 +462,7 @@ search box
   }
   .wax-gallery {
     margin: $margin auto;
-    min-height: 50vh;
+    // min-height: 50vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
@@ -501,7 +501,7 @@ search box
               -webkit-transform: scale(1);
               -ms-transform: scale(1);
               transform: scale(1);
-              display: none;
+              // display: none;
             }
           }
         }
@@ -517,10 +517,12 @@ search box
           -ms-transform: scale(0);
           transform: scale(0);
           font-weight: normal;
+          font-size: 1rem;
+          line-height: 1rem;
           overflow: hidden;
           display: table-cell;
-          vertical-align: middle;
-          padding: 0 $margin 0 $margin;
+          padding: .5rem;
+          vertical-align: center;
         }
 
         .overlay {
