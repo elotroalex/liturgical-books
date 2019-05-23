@@ -1,8 +1,12 @@
 ---
 pid: plimpton033_recto
+label: Notated Office Chants and Readings
 tag: Chant Books for the Office
-label: New York, Columbia University, Rare Book and Manuscript Library,  Plimpton
+location: New York, Columbia University, Rare Book and Manuscript Library,  Plimpton
   MS 033, recto
+location_short: Plimpton MS 033, recto
+description: " An breviary from 12th-century Italy containing both the notated chants
+  and the readings."
 scriptorium: http://servlet1.lib.berkeley.edu:8080/seadragonwindow/?IIIF=/ds/columbia/tiles/NNC-RBML.2482A_tile.tif/info.json&
 scriptorium_metadata: http://www.digital-scriptorium.org/xtf3/search?rmode=digscript;smode=basic;text=Plimpton%20MS%20033;docsPerPage=1;startDoc=1;fullview=yes
 manifest: "/img/derivatives/iiif/plimpton033_recto/manifest.json"
