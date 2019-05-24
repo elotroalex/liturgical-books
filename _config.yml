@@ -96,8 +96,8 @@ lunr_index:
 # submenu via `sub`.
 
 menu:
-  - label: 'Browse'
-    link: /exhibits/toc/
+  # - label: 'Browse'
+  #   link: /exhibits/toc/
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
