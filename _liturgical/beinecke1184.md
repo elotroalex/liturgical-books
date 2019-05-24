@@ -1,6 +1,6 @@
 ---
 pid: beinecke1184
-label: 'The Olivetan Gradual '
+label: 'The Olivetan Gradual'
 tag: Books of the Mass
 location: New Haven, Yale University, Beinecke Rare Book and Manuscript Library, Beinecke MS 1184
 location_short: Beinecke MS 1184
