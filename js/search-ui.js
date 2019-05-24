@@ -11,6 +11,8 @@ $.getJSON("{{ 'search-index.json' | absolute_url }}", function(index_json) {
 	index.addField('artist');
 	index.addField('location');
 	index.addField('label');
+  index.addField('description');
+  index.addField('tag');    
 	index.addField('_date');
 	index.addField('object_type');
 	index.addField('current_location');

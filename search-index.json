@@ -14,6 +14,17 @@ layout: none
     "lunr_index": 0
   },
   {
+    "link": "{{'/liturgical/beinecke1184/' | absolute_url }}",
+    "collection": "liturgical",
+    "tag": "Books of the Mass",
+    "label": "The Olivetan Gradual ",
+    "description": "The Olivetan Gradual (Beinecke MS 1184) is a stunning 15th-century example of the gradual, a liturgical book containing the musical components of the Mass in written notation. (Reproduction courtesy of the Beinecke Rare Book & Manuscript Library)",
+    "location": "New Haven, Yale University, Beinecke Rare Book and Manuscript Library, MS 1184",
+    "pid": "beinecke1184",
+    "thumbnail": "/img/derivatives/iiif/images/beinecke1184/full/250,/0/default.jpg",
+    "lunr_index": 1
+  },
+  {
     "link": "{{'/liturgical/plimpton035/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "The Mass",
@@ -22,7 +33,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 035, f. 89r",
     "pid": "plimpton035",
     "thumbnail": "/img/derivatives/iiif/images/plimpton035/full/250,/0/default.jpg",
-    "lunr_index": 1
+    "lunr_index": 2
   },
   {
     "link": "{{'/liturgical/med28_f2/' | absolute_url }}",
@@ -33,7 +44,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Med/Ren Frag. 028, f. 2r",
     "pid": "med28_f2",
     "thumbnail": "/img/derivatives/iiif/images/med28_f2/full/250,/0/default.jpg",
-    "lunr_index": 2
+    "lunr_index": 3
   },
   {
     "link": "{{'/liturgical/barnard7v/' | absolute_url }}",
@@ -44,18 +55,18 @@ layout: none
     "location": "New York, Columbia University, Barnard College Library,  MS 3, f. 7v",
     "pid": "barnard7v",
     "thumbnail": "/img/derivatives/iiif/images/barnard7v/full/250,/0/default.jpg",
-    "lunr_index": 3
+    "lunr_index": 4
   },
   {
     "link": "{{'/liturgical/plimpton254_feb/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "February",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1420",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 2v February",
     "pid": "plimpton254_feb",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_feb/full/250,/0/default.jpg",
-    "lunr_index": 4
+    "lunr_index": 5
   },
   {
     "link": "{{'/liturgical/med24_f1/' | absolute_url }}",
@@ -66,7 +77,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Smith Med/Ren Frag. 24, f. 1r",
     "pid": "med24_f1",
     "thumbnail": "/img/derivatives/iiif/images/med24_f1/full/250,/0/default.jpg",
-    "lunr_index": 5
+    "lunr_index": 6
   },
   {
     "link": "{{'/liturgical/plimp176/' | absolute_url }}",
@@ -74,10 +85,10 @@ layout: none
     "tag": "Calendar",
     "label": "Calendar Commemorating the Dedication of a Church",
     "description": "A calendar produced in Switzerland in 1426, with the Dedication of the church of Constance (9 September) written by the same scribe as the bulk of the text.",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASPlimpton MS 176, f. 5r",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Plimpton MS 176, f. 5r",
     "pid": "plimp176",
     "thumbnail": "/img/derivatives/iiif/images/plimp176/full/250,/0/default.jpg",
-    "lunr_index": 6
+    "lunr_index": 7
   },
   {
     "link": "{{'/liturgical/plimpton050_f11v/' | absolute_url }}",
@@ -88,7 +99,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 050, f. 11v",
     "pid": "plimpton050_f11v",
     "thumbnail": "/img/derivatives/iiif/images/plimpton050_f11v/full/250,/0/default.jpg",
-    "lunr_index": 7
+    "lunr_index": 8
   },
   {
     "link": "{{'/liturgical/uts19/' | absolute_url }}",
@@ -99,7 +110,7 @@ layout: none
     "location": "New York, Columbia University, Burke Library at Union Theological Seminary,  UTS MS 019, ff. 14v-15r",
     "pid": "uts19",
     "thumbnail": "/img/derivatives/iiif/images/uts19/full/250,/0/default.jpg",
-    "lunr_index": 8
+    "lunr_index": 9
   },
   {
     "link": "{{'/liturgical/ben_ms3/' | absolute_url }}",
@@ -107,10 +118,10 @@ layout: none
     "tag": "The Liturgical Year",
     "label": "Rubricated Calendar with Feast Rankings",
     "description": "A ferial psalter from 15th-century Germany whose calendar includes, in red ink, the feasts of Dominic 'patris nostri' ranked as 'totum duplex' (5 August) and Sebaldus (19 August) showing that the book was made for the Dominicans of Nurnberg.",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASBenjamin MS 3, ff. 4v-5r",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Benjamin MS 3, ff. 4v-5r",
     "pid": "ben_ms3",
     "thumbnail": "/img/derivatives/iiif/images/ben_ms3/full/250,/0/default.jpg",
-    "lunr_index": 9
+    "lunr_index": 10
   },
   {
     "link": "{{'/liturgical/x936_c28_f7/' | absolute_url }}",
@@ -121,7 +132,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  X936.C28, f. 7r",
     "pid": "x936_C28_f7",
     "thumbnail": "/img/derivatives/iiif/images/x936_C28_f7/full/250,/0/default.jpg",
-    "lunr_index": 10
+    "lunr_index": 11
   },
   {
     "link": "{{'/liturgical/plimpton034/' | absolute_url }}",
@@ -132,7 +143,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 034, f. 1r",
     "pid": "plimpton034",
     "thumbnail": "/img/derivatives/iiif/images/plimpton034/full/250,/0/default.jpg",
-    "lunr_index": 11
+    "lunr_index": 12
   },
   {
     "link": "{{'/liturgical/plimpton040c_f2v/' | absolute_url }}",
@@ -143,7 +154,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 040C, f. 2v",
     "pid": "plimpton040C_f2v",
     "thumbnail": "/img/derivatives/iiif/images/plimpton040C_f2v/full/250,/0/default.jpg",
-    "lunr_index": 12
+    "lunr_index": 13
   },
   {
     "link": "{{'/liturgical/plimpton033_recto/' | absolute_url }}",
@@ -154,7 +165,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 033, recto",
     "pid": "plimpton033_recto",
     "thumbnail": "/img/derivatives/iiif/images/plimpton033_recto/full/250,/0/default.jpg",
-    "lunr_index": 13
+    "lunr_index": 14
   },
   {
     "link": "{{'/liturgical/smith22/' | absolute_url }}",
@@ -165,18 +176,18 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Smith Med/Ren Frag. 22, verso",
     "pid": "smith22",
     "thumbnail": "/img/derivatives/iiif/images/smith22/full/250,/0/default.jpg",
-    "lunr_index": 14
+    "lunr_index": 15
   },
   {
     "link": "{{'/liturgical/barnard49v/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Chant Books for the Mass",
     "label": "Troped Glorias",
-    "description": "N/A",
+    "description": "A gradual from 16th-century Portugal.",
     "location": "New York, Columbia University, Barnard College Library,  MS 3, f. 49r",
     "pid": "barnard49v",
     "thumbnail": "/img/derivatives/iiif/images/barnard49v/full/250,/0/default.jpg",
-    "lunr_index": 15
+    "lunr_index": 16
   },
   {
     "link": "{{'/liturgical/music00_f2/' | absolute_url }}",
@@ -187,7 +198,7 @@ layout: none
     "location": "New York, Columbia University, Gabe M. Wiener Music and Arts Library,  Music Deposit 00, f. 2r",
     "pid": "music00_f2",
     "thumbnail": "/img/derivatives/iiif/images/music00_f2/full/250,/0/default.jpg",
-    "lunr_index": 16
+    "lunr_index": 17
   },
   {
     "link": "{{'/liturgical/plimp40b/' | absolute_url }}",
@@ -195,21 +206,21 @@ layout: none
     "tag": "The Liturgical Year",
     "label": "Historiated Initial for St. Helen",
     "description": "A gradual from 15th-century Italy with an inordinately large historiated initial of a relatively unimportant saint,  Helen, who found the True Cross (18 August). Presumably the book was made for a church with particular veneration of St. Helen.",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASPlimpton MS 040B, f. 1r",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Plimpton MS 040B, f. 1r",
     "pid": "plimp40b",
     "thumbnail": "/img/derivatives/iiif/images/plimp40b/full/250,/0/default.jpg",
-    "lunr_index": 17
+    "lunr_index": 18
   },
   {
     "link": "{{'/liturgical/typographical2_f15/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Books of the Office",
     "label": "Antiphon, 'Confortate manus dissolutas'",
-    "description": "N/A",
+    "description": "A psalter from 15th-century Tuscany.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Typographical MS 2, f. 15r detail",
     "pid": "typographical2_f15",
     "thumbnail": "/img/derivatives/iiif/images/typographical2_f15/full/250,/0/default.jpg",
-    "lunr_index": 18
+    "lunr_index": 19
   },
   {
     "link": "{{'/liturgical/western49_recto/' | absolute_url }}",
@@ -220,7 +231,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Western MS 049, recto",
     "pid": "western49_recto",
     "thumbnail": "/img/derivatives/iiif/images/western49_recto/full/250,/0/default.jpg",
-    "lunr_index": 19
+    "lunr_index": 20
   },
   {
     "link": "{{'/liturgical/med26_verso/' | absolute_url }}",
@@ -231,29 +242,29 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Smith Med/Ren Frag. 26, verso",
     "pid": "med26_verso",
     "thumbnail": "/img/derivatives/iiif/images/med26_verso/full/250,/0/default.jpg",
-    "lunr_index": 20
+    "lunr_index": 21
   },
   {
     "link": "{{'/liturgical/typographical2_f46_2/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Books of the Office",
     "label": "Initial of Zacharias Holding a Scroll with the Artist's Name",
-    "description": "N/A",
+    "description": "A psalter from 15th-century Tuscany.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Typographical MS 2, f. 46r detail",
     "pid": "typographical2_f46_2",
     "thumbnail": "/img/derivatives/iiif/images/typographical2_f46_2/full/250,/0/default.jpg",
-    "lunr_index": 21
+    "lunr_index": 22
   },
   {
     "link": "{{'/liturgical/plimpton268/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Books of the Mass",
     "label": "Wycliffite List of Gospel Assignments in Middle English",
-    "description": "N/A",
+    "description": "A 15th-century English copy of Clement of Lanthony, <em>Harmony of the Gospels</em> with lists of the readings.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 268, ff. 1v-2r",
     "pid": "plimpton268",
     "thumbnail": "/img/derivatives/iiif/images/plimpton268/full/250,/0/default.jpg",
-    "lunr_index": 22
+    "lunr_index": 23
   },
   {
     "link": "{{'/liturgical/western38_f137/' | absolute_url }}",
@@ -264,7 +275,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Western MS 038, ff. 136v-137r",
     "pid": "western38_f137",
     "thumbnail": "/img/derivatives/iiif/images/western38_f137/full/250,/0/default.jpg",
-    "lunr_index": 23
+    "lunr_index": 24
   },
   {
     "link": "{{'/liturgical/med_ren62/' | absolute_url }}",
@@ -275,7 +286,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Med/Ren Frag. 062, f. 1v",
     "pid": "med_ren62",
     "thumbnail": "/img/derivatives/iiif/images/med_ren62/full/250,/0/default.jpg",
-    "lunr_index": 24
+    "lunr_index": 25
   },
   {
     "link": "{{'/liturgical/plimpton03_f45/' | absolute_url }}",
@@ -286,7 +297,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton Add. MS 03, f. 45r",
     "pid": "plimpton03_f45",
     "thumbnail": "/img/derivatives/iiif/images/plimpton03_f45/full/250,/0/default.jpg",
-    "lunr_index": 25
+    "lunr_index": 26
   },
   {
     "link": "{{'/liturgical/uts43/' | absolute_url }}",
@@ -297,7 +308,7 @@ layout: none
     "location": "New York, Columbia University, Burke Library at Union Theological Seminary,  UTS MS 043, f. 96v-97r",
     "pid": "uts43",
     "thumbnail": "/img/derivatives/iiif/images/uts43/full/250,/0/default.jpg",
-    "lunr_index": 26
+    "lunr_index": 27
   },
   {
     "link": "{{'/liturgical/plimpton042_f1v/' | absolute_url }}",
@@ -308,7 +319,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 042, f. 1v",
     "pid": "plimpton042_f1v",
     "thumbnail": "/img/derivatives/iiif/images/plimpton042_f1v/full/250,/0/default.jpg",
-    "lunr_index": 27
+    "lunr_index": 28
   },
   {
     "link": "{{'/liturgical/western38_ff193/' | absolute_url }}",
@@ -319,7 +330,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Western MS 038, ff. 193v-194r",
     "pid": "western38_ff193",
     "thumbnail": "/img/derivatives/iiif/images/western38_ff193/full/250,/0/default.jpg",
-    "lunr_index": 28
+    "lunr_index": 29
   },
   {
     "link": "{{'/liturgical/plimp211_137/' | absolute_url }}",
@@ -327,10 +338,10 @@ layout: none
     "tag": "Computus",
     "label": "Mnemonic for Calculating Easter",
     "description": "An early 16th-century Italian treatise on arithmetic with a mnemonic hand for the date of Easter.",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASPlimpton MS 211, ff. 137v-138r",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Plimpton MS 211, ff. 137v-138r",
     "pid": "plimp211_137",
     "thumbnail": "/img/derivatives/iiif/images/plimp211_137/full/250,/0/default.jpg",
-    "lunr_index": 29
+    "lunr_index": 30
   },
   {
     "link": "{{'/liturgical/west31/' | absolute_url }}",
@@ -338,10 +349,10 @@ layout: none
     "tag": "Calendar",
     "label": "Various Authors' Dating of Christ's Passion",
     "description": "A computistical and theological compendium copied in the Low Countries ca. 1450-75, with several dates given for Christ's passion, according to Theophilus, according to Jerome, according to Hugh of St. Victor, and according to 'others.'",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASWestern MS 031, p. 406",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Western MS 031, p. 406",
     "pid": "west31",
     "thumbnail": "/img/derivatives/iiif/images/west31/full/250,/0/default.jpg",
-    "lunr_index": 30
+    "lunr_index": 31
   },
   {
     "link": "{{'/liturgical/benjamin2/' | absolute_url }}",
@@ -352,7 +363,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Benjamin MS 2, ff. 6v-7r",
     "pid": "benjamin2",
     "thumbnail": "/img/derivatives/iiif/images/benjamin2/full/250,/0/default.jpg",
-    "lunr_index": 31
+    "lunr_index": 32
   },
   {
     "link": "{{'/liturgical/uts03/' | absolute_url }}",
@@ -363,29 +374,29 @@ layout: none
     "location": "New York, Columbia University, Burke Library at Union Theological Seminary,  UTS MS 003, f. 129v",
     "pid": "uts03",
     "thumbnail": "/img/derivatives/iiif/images/uts03/full/250,/0/default.jpg",
-    "lunr_index": 32
+    "lunr_index": 33
   },
   {
     "link": "{{'/liturgical/plimpton254_june/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "June",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1423",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 4v June",
     "pid": "plimpton254_june",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_june/full/250,/0/default.jpg",
-    "lunr_index": 33
+    "lunr_index": 34
   },
   {
     "link": "{{'/liturgical/plimpton254_july/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "July",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1422",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 5r July",
     "pid": "plimpton254_july",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_july/full/250,/0/default.jpg",
-    "lunr_index": 34
+    "lunr_index": 35
   },
   {
     "link": "{{'/liturgical/med_ren5/' | absolute_url }}",
@@ -396,7 +407,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Med/Ren Frag. 005, f. 1r",
     "pid": "med_ren5",
     "thumbnail": "/img/derivatives/iiif/images/med_ren5/full/250,/0/default.jpg",
-    "lunr_index": 35
+    "lunr_index": 36
   },
   {
     "link": "{{'/liturgical/plimp40c/' | absolute_url }}",
@@ -407,7 +418,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 040C, f. 3r",
     "pid": "plimp40c",
     "thumbnail": "/img/derivatives/iiif/images/plimp40c/full/250,/0/default.jpg",
-    "lunr_index": 36
+    "lunr_index": 37
   },
   {
     "link": "{{'/liturgical/plimpton064_f2v/' | absolute_url }}",
@@ -418,7 +429,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 064, f. 2v",
     "pid": "plimpton064_f2v",
     "thumbnail": "/img/derivatives/iiif/images/plimpton064_f2v/full/250,/0/default.jpg",
-    "lunr_index": 37
+    "lunr_index": 38
   },
   {
     "link": "{{'/liturgical/uts03_f135v/' | absolute_url }}",
@@ -429,29 +440,29 @@ layout: none
     "location": "New York, Columbia University, Burke Library at Union Theological Seminary,  UTS MS 003, f. 135v",
     "pid": "uts03_f135v",
     "thumbnail": "/img/derivatives/iiif/images/uts03_f135v/full/250,/0/default.jpg",
-    "lunr_index": 38
+    "lunr_index": 39
   },
   {
     "link": "{{'/liturgical/plimpton254_aug/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "August",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1418",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 5v August",
     "pid": "plimpton254_aug",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_aug/full/250,/0/default.jpg",
-    "lunr_index": 39
+    "lunr_index": 40
   },
   {
     "link": "{{'/liturgical/plimpton084_f9/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Chapter",
     "label": "First Page of the Martyrology (Dec. 24 and 25)",
-    "description": "A *Martyrology of Usuard* and *Rule* of Benedict from France, around 1500.",
+    "description": "A <em>Martyrology of Usuard</em> and <em>Rule</em> of Benedict from France, around 1500.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 084, f. 9r",
     "pid": "plimpton084_f9",
     "thumbnail": "/img/derivatives/iiif/images/plimpton084_f9/full/250,/0/default.jpg",
-    "lunr_index": 40
+    "lunr_index": 41
   },
   {
     "link": "{{'/liturgical/western62/' | absolute_url }}",
@@ -459,10 +470,10 @@ layout: none
     "tag": "Books of the Mass",
     "label": "Mass Prayers with Sung Chants Indicated by Smaller Script",
     "description": "A missal from 15th-century Germany.",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASWestern MS 062, f. 2v",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Western MS 062, f. 2v",
     "pid": "western62",
     "thumbnail": "/img/derivatives/iiif/images/western62/full/250,/0/default.jpg",
-    "lunr_index": 41
+    "lunr_index": 42
   },
   {
     "link": "{{'/liturgical/x936c28/' | absolute_url }}",
@@ -473,7 +484,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  X936.C28, f. 121v",
     "pid": "x936c28",
     "thumbnail": "/img/derivatives/iiif/images/x936c28/full/250,/0/default.jpg",
-    "lunr_index": 42
+    "lunr_index": 43
   },
   {
     "link": "{{'/liturgical/plimpton041_f1/' | absolute_url }}",
@@ -484,7 +495,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 041, f. 1r",
     "pid": "plimpton041_f1",
     "thumbnail": "/img/derivatives/iiif/images/plimpton041_f1/full/250,/0/default.jpg",
-    "lunr_index": 43
+    "lunr_index": 44
   },
   {
     "link": "{{'/liturgical/uts3/' | absolute_url }}",
@@ -492,21 +503,21 @@ layout: none
     "tag": "Common versus Proper",
     "label": "Office Combining Proper and Common Chants",
     "description": "A missal from 15th-century Germany, where the service for Magnus, 'apostle of the Allgau' (Bavaria, 6 September), is contained partially here in the sanctorale with a note in the rubric on finding the rest of the service, 'Secretum et complenda de comune de confessore non pontifice...' in the common of a confessor, not a bishop.",
-    "location": "New York, Columbia University, Burke Library at Union Theological Seminary, ASUTS MS 003, f. 219r",
+    "location": "New York, Columbia University, Burke Library at Union Theological Seminary, UTS MS 003, f. 219r",
     "pid": "uts3",
     "thumbnail": "/img/derivatives/iiif/images/uts3/full/250,/0/default.jpg",
-    "lunr_index": 44
+    "lunr_index": 45
   },
   {
     "link": "{{'/liturgical/typographical2_f46/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Books of the Office",
     "label": "Canticle, 'Benedictus'",
-    "description": "N/A",
+    "description": "A psalter from 15th-century Tuscany.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Typographical MS 2, f. 46r",
     "pid": "typographical2_f46",
     "thumbnail": "/img/derivatives/iiif/images/typographical2_f46/full/250,/0/default.jpg",
-    "lunr_index": 45
+    "lunr_index": 46
   },
   {
     "link": "{{'/liturgical/med86/' | absolute_url }}",
@@ -514,21 +525,21 @@ layout: none
     "tag": "Books of the Mass",
     "label": "Gospel Reading and Prayers with Chant Incipits in Smaller Script",
     "description": "A missal from 12th-century Italy.",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASMed/Ren Frag. 086, f. 1v",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Med/Ren Frag. 086, f. 1v",
     "pid": "med86",
     "thumbnail": "/img/derivatives/iiif/images/med86/full/250,/0/default.jpg",
-    "lunr_index": 46
+    "lunr_index": 47
   },
   {
     "link": "{{'/liturgical/typographical2_f81/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Books of the Office",
     "label": "Hymn, 'Consors paterni luminis lux'",
-    "description": "N/A",
+    "description": "A psalter from 15th-century Tuscany.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Typographical MS 2, f. 81r",
     "pid": "typographical2_f81",
     "thumbnail": "/img/derivatives/iiif/images/typographical2_f81/full/250,/0/default.jpg",
-    "lunr_index": 47
+    "lunr_index": 48
   },
   {
     "link": "{{'/liturgical/barnard1_189/' | absolute_url }}",
@@ -539,7 +550,7 @@ layout: none
     "location": "New York, Columbia University, Barnard College Library,  MS 1, p. 189",
     "pid": "barnard1_189",
     "thumbnail": "/img/derivatives/iiif/images/barnard1_189/full/250,/0/default.jpg",
-    "lunr_index": 48
+    "lunr_index": 49
   },
   {
     "link": "{{'/liturgical/x936c28_f214/' | absolute_url }}",
@@ -550,7 +561,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library, X936.C28, f. 214r",
     "pid": "x936c28_f214",
     "thumbnail": "/img/derivatives/iiif/images/x936c28_f214/full/250,/0/default.jpg",
-    "lunr_index": 49
+    "lunr_index": 50
   },
   {
     "link": "{{'/liturgical/plimpton055_f1v/' | absolute_url }}",
@@ -561,7 +572,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 055, f. 1v",
     "pid": "plimpton055_f1v",
     "thumbnail": "/img/derivatives/iiif/images/plimpton055_f1v/full/250,/0/default.jpg",
-    "lunr_index": 50
+    "lunr_index": 51
   },
   {
     "link": "{{'/liturgical/smith16_f116v/' | absolute_url }}",
@@ -572,29 +583,29 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Smith Western MS 16, f. 116v",
     "pid": "smith16_f116v",
     "thumbnail": "/img/derivatives/iiif/images/smith16_f116v/full/250,/0/default.jpg",
-    "lunr_index": 51
+    "lunr_index": 52
   },
   {
     "link": "{{'/liturgical/barnard22v/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Chant Books for the Mass",
     "label": "Sequence for Continents (chaste spouses)",
-    "description": "N/A",
+    "description": "A gradual from 16th-century Portugal.",
     "location": "New York, Columbia University, Barnard College Library,  MS 3, f. 22v",
     "pid": "barnard22v",
     "thumbnail": "/img/derivatives/iiif/images/barnard22v/full/250,/0/default.jpg",
-    "lunr_index": 52
+    "lunr_index": 53
   },
   {
     "link": "{{'/liturgical/plimpton254_sept/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "September",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1428",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 6r September",
     "pid": "plimpton254_sept",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_sept/full/250,/0/default.jpg",
-    "lunr_index": 53
+    "lunr_index": 54
   },
   {
     "link": "{{'/liturgical/plimpton040g_recto/' | absolute_url }}",
@@ -605,51 +616,51 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 040G, f. 1r",
     "pid": "plimpton040G_recto",
     "thumbnail": "/img/derivatives/iiif/images/plimpton040G_recto/full/250,/0/default.jpg",
-    "lunr_index": 54
+    "lunr_index": 55
   },
   {
     "link": "{{'/liturgical/plimpton254_may/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "May",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1425",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 4r May",
     "pid": "plimpton254_may",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_may/full/250,/0/default.jpg",
-    "lunr_index": 55
+    "lunr_index": 56
   },
   {
     "link": "{{'/liturgical/med_ren71/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Directions",
     "label": "Liturgical Commentary by Durandus of Mende",
-    "description": "A leaf from the *Rationale divinorum officiorum* of Durandus in holster format for portability, produced in Germany during the 15th century.",
+    "description": "A leaf from the <em>Rationale divinorum officiorum</em> of Durandus in holster format for portability, produced in Germany during the 15th century.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Med/Ren Frag. 071, f. 1v",
     "pid": "med_ren71",
     "thumbnail": "/img/derivatives/iiif/images/med_ren71/full/250,/0/default.jpg",
-    "lunr_index": 56
+    "lunr_index": 57
   },
   {
     "link": "{{'/liturgical/plimpton254_jan/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "January",
-    "description": "A copy of the *Kalendarium* of John Somer produced in England c. 1417.",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1421",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 2r January",
     "pid": "plimpton254_jan",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_jan/full/250,/0/default.jpg",
-    "lunr_index": 57
+    "lunr_index": 58
   },
   {
     "link": "{{'/liturgical/smith01/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Computus",
     "label": "Diagram of the Celestial Bodies",
-    "description": "A 14th-century Italian manuscript of Johannes de Sacrobosco's *Computus ecclesiasticus* with a diagram of the celestial bodies.",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASSmith Western Add. MS 01, ff. 60v-61r",
+    "description": "A 14th-century Italian manuscript of Johannes de Sacrobosco's <em>Computus ecclesiasticus</em> with a diagram of the celestial bodies.",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Smith Western Add. MS 01, ff. 60v-61r",
     "pid": "smith01",
     "thumbnail": "/img/derivatives/iiif/images/smith01/full/250,/0/default.jpg",
-    "lunr_index": 58
+    "lunr_index": 59
   },
   {
     "link": "{{'/liturgical/typographical2_f1/' | absolute_url }}",
@@ -660,29 +671,29 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Typographical MS 2, f. 1r",
     "pid": "typographical2_f1",
     "thumbnail": "/img/derivatives/iiif/images/typographical2_f1/full/250,/0/default.jpg",
-    "lunr_index": 59
+    "lunr_index": 60
   },
   {
     "link": "{{'/liturgical/plimp170_64/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Computus",
     "label": "Calculations for Easter ",
-    "description": "A copy of Bono da Lucca, *Computus solaris et lunaris*, produced in Italy during the 1390s with an Easter chart to the year 1882 (new style).",
-    "location": "New York, Columbia University, Rare Book and Manuscript Library, ASPlimpton MS 170, f. 64v",
+    "description": "A copy of Bono da Lucca, <em>Computus solaris et lunaris<em>, produced in Italy during the 1390s with an Easter chart to the year 1882 (new style).",
+    "location": "New York, Columbia University, Rare Book and Manuscript Library, Plimpton MS 170, f. 64v",
     "pid": "plimp170_64",
     "thumbnail": "/img/derivatives/iiif/images/plimp170_64/full/250,/0/default.jpg",
-    "lunr_index": 60
+    "lunr_index": 61
   },
   {
     "link": "{{'/liturgical/plimpton254_nov/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "November",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1426",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 7r November",
     "pid": "plimpton254_nov",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_nov/full/250,/0/default.jpg",
-    "lunr_index": 61
+    "lunr_index": 62
   },
   {
     "link": "{{'/liturgical/uts60_ff6v7/' | absolute_url }}",
@@ -693,7 +704,7 @@ layout: none
     "location": "New York, Columbia University, Burke Library at Union Theological Seminary,  UTS MS 060, ff. 6v-7r",
     "pid": "uts60_ff6v7",
     "thumbnail": "/img/derivatives/iiif/images/uts60_ff6v7/full/250,/0/default.jpg",
-    "lunr_index": 62
+    "lunr_index": 63
   },
   {
     "link": "{{'/liturgical/western29/' | absolute_url }}",
@@ -704,40 +715,40 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Western MS 029, f. 63r",
     "pid": "western29",
     "thumbnail": "/img/derivatives/iiif/images/western29/full/250,/0/default.jpg",
-    "lunr_index": 63
+    "lunr_index": 64
   },
   {
     "link": "{{'/liturgical/plimpton254_mar/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "March",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1424",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 3r March",
     "pid": "plimpton254_mar",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_mar/full/250,/0/default.jpg",
-    "lunr_index": 64
+    "lunr_index": 65
   },
   {
     "link": "{{'/liturgical/plimpton084_f103/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Chapter",
-    "label": "Beginning of the *Rule* of Benedict",
-    "description": "N/A",
+    "label": "Beginning of the <em>Rule</em> of Benedict",
+    "description": "A <em>Martyrology of Usuard</em> and <em>Rule</em> of Benedict from France, around 1500.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 084, f. 103r",
     "pid": "plimpton084_f103",
     "thumbnail": "/img/derivatives/iiif/images/plimpton084_f103/full/250,/0/default.jpg",
-    "lunr_index": 65
+    "lunr_index": 66
   },
   {
     "link": "{{'/liturgical/plimpton084_f66v/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Chapter",
     "label": "Martyrology for September 15 and 16 with the Phases of the Moon",
-    "description": "N/A",
+    "description": "A <em>Martyrology of Usuard</em> and <em>Rule</em> of Benedict from France, around 1500.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 084, f. 66v",
     "pid": "plimpton084_f66v",
     "thumbnail": "/img/derivatives/iiif/images/plimpton084_f66v/full/250,/0/default.jpg",
-    "lunr_index": 66
+    "lunr_index": 67
   },
   {
     "link": "{{'/liturgical/smith15/' | absolute_url }}",
@@ -748,40 +759,40 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Smith Western MS 15, ff. 30v-31r",
     "pid": "smith15",
     "thumbnail": "/img/derivatives/iiif/images/smith15/full/250,/0/default.jpg",
-    "lunr_index": 67
+    "lunr_index": 68
   },
   {
     "link": "{{'/liturgical/plimpton254_oct/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "October",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1427",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 6v October",
     "pid": "plimpton254_oct",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_oct/full/250,/0/default.jpg",
-    "lunr_index": 68
+    "lunr_index": 69
   },
   {
     "link": "{{'/liturgical/barnard42v/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Chant Books for the Mass",
     "label": "Kyries for Marian Feasts, Preceded by a Trope",
-    "description": "N/A",
+    "description": "A gradual from 16th-century Portugal.",
     "location": "New York, Columbia University, Barnard College Library,  MS 3, f. 42v",
     "pid": "barnard42v",
     "thumbnail": "/img/derivatives/iiif/images/barnard42v/full/250,/0/default.jpg",
-    "lunr_index": 69
+    "lunr_index": 70
   },
   {
     "link": "{{'/liturgical/plimpton254_dec/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "December",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1419",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 7v December",
     "pid": "plimpton254_dec",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_dec/full/250,/0/default.jpg",
-    "lunr_index": 70
+    "lunr_index": 71
   },
   {
     "link": "{{'/liturgical/x936_c28_f1/' | absolute_url }}",
@@ -792,7 +803,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  X936.C28, f. 1r",
     "pid": "x936_C28_f1",
     "thumbnail": "/img/derivatives/iiif/images/x936_C28_f1/full/250,/0/default.jpg",
-    "lunr_index": 71
+    "lunr_index": 72
   },
   {
     "link": "{{'/liturgical/med_ren9/' | absolute_url }}",
@@ -803,7 +814,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Med/Ren Frag. 009, f. 1r",
     "pid": "med_ren9",
     "thumbnail": "/img/derivatives/iiif/images/med_ren9/full/250,/0/default.jpg",
-    "lunr_index": 72
+    "lunr_index": 73
   },
   {
     "link": "{{'/liturgical/plimpton265/' | absolute_url }}",
@@ -814,7 +825,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 265, back flyleaf",
     "pid": "plimpton265",
     "thumbnail": "/img/derivatives/iiif/images/plimpton265/full/250,/0/default.jpg",
-    "lunr_index": 73
+    "lunr_index": 74
   },
   {
     "link": "{{'/liturgical/plimp135/' | absolute_url }}",
@@ -825,7 +836,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 135, f. 16r",
     "pid": "plimp135",
     "thumbnail": "/img/derivatives/iiif/images/plimp135/full/250,/0/default.jpg",
-    "lunr_index": 74
+    "lunr_index": 75
   },
   {
     "link": "{{'/liturgical/smith24/' | absolute_url }}",
@@ -836,7 +847,7 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Smith Western MS 24, ff. 297v-298r",
     "pid": "smith24",
     "thumbnail": "/img/derivatives/iiif/images/smith24/full/250,/0/default.jpg",
-    "lunr_index": 75
+    "lunr_index": 76
   },
   {
     "link": "{{'/liturgical/m4885/' | absolute_url }}",
@@ -847,28 +858,28 @@ layout: none
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 040A, f. 1r",
     "pid": "m4885",
     "thumbnail": "/img/derivatives/iiif/images/m4885/full/250,/0/default.jpg",
-    "lunr_index": 76
+    "lunr_index": 77
   },
   {
     "link": "{{'/liturgical/plimpton254_apr/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "A Complete Calendar",
     "label": "April",
-    "description": "N/A",
+    "description": "A copy of the <em>Kalendarium</em> of John Somer produced in England c. 1417.",
     "location": "New York, Columbia University, Rare Book and Manuscript Library,  Plimpton MS 254, f. 3v April",
     "pid": "plimpton254_apr",
     "thumbnail": "/img/derivatives/iiif/images/plimpton254_apr/full/250,/0/default.jpg",
-    "lunr_index": 77
+    "lunr_index": 78
   },
   {
     "link": "{{'/liturgical/barnard40v/' | absolute_url }}",
     "collection": "liturgical",
     "tag": "Chant Books for the Mass",
     "label": "Melodies for the Kyrie",
-    "description": "N/A",
+    "description": "A gradual from 16th-century Portugal.",
     "location": "New York, Columbia University, Barnard College Library,  MS 3, f. 40v",
     "pid": "barnard40v",
     "thumbnail": "/img/derivatives/iiif/images/barnard40v/full/250,/0/default.jpg",
-    "lunr_index": 78
+    "lunr_index": 79
   }
 ]
