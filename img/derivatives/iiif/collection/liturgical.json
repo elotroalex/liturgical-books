@@ -43,6 +43,11 @@ layout: none
       "label": "med_ren9"
     },
     {
+      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/beinecke1184/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "beinecke1184"
+    },
+    {
       "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/typographical2_f46/manifest.json",
       "@type": "sc:Manifest",
       "label": "typographical2_f46"

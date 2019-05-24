@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: liturgical
-  pid: barnard22v
+  pid: beinecke1184
   y: 25%
 ---
 
