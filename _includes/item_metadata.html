@@ -4,7 +4,7 @@
       {% assign key = item.value | remove: 'page.' %}
       {% assign value = page[key] %}
     {% else %}
-      {% assign value = item.value %}
+      {% assign value = item.value | markdownify %}
     {% endif %}
 
     {% if value contains 'http' %}

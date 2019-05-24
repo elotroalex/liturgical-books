@@ -2,7 +2,7 @@
 pid: ben_ms3
 label: Rubricated Calendar with Feast Rankings
 tag: The Liturgical Year
-location: New York, Columbia University, Rare Book and Manuscript Library, ÃŠBenjamin
+location: New York, Columbia University, Rare Book and Manuscript Library, Benjamin
   MS 3, ff. 4v-5r
 location_short: Benjamin MS 3, ff. 4v-5
 description: A ferial psalter from 15th-century Germany whose calendar includes, in

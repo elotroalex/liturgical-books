@@ -2,7 +2,7 @@
 pid: west31
 label: Various Authors' Dating of Christ's Passion
 tag: Calendar
-location: New York, Columbia University, Rare Book and Manuscript Library, ÃŠWestern
+location: New York, Columbia University, Rare Book and Manuscript Library, Western
   MS 031, p. 406
 location_short: Western MS 031, p. 406
 description: A computistical and theological compendium copied in the Low Countries

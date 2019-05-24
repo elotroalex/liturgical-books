@@ -2,7 +2,7 @@
 pid: smith01
 label: Diagram of the Celestial Bodies
 tag: Computus
-location: New York, Columbia University, Rare Book and Manuscript Library, ÃŠSmith
+location: New York, Columbia University, Rare Book and Manuscript Library, Smith
   Western Add. MS 01, ff. 60v-61r
 location_short: Smith Western Add. MS 01, ff. 60v-61
 description: A 14th-century Italian manuscript of Johannes de Sacrobosco's *Computus

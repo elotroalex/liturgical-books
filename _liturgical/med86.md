@@ -2,7 +2,7 @@
 pid: med86
 label: Gospel Reading and Prayers with Chant Incipits in Smaller Script
 tag: Books of the Mass
-location: New York, Columbia University, Rare Book and Manuscript Library, ÃŠMed/Ren
+location: New York, Columbia University, Rare Book and Manuscript Library, Med/Ren
   Frag. 086, f. 1v
 location_short: Med/Ren Frag. 086, verso
 description: A missal from 12th-century Italy.

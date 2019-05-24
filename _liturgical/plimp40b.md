@@ -2,7 +2,7 @@
 pid: plimp40b
 label: Historiated Initial for St. Helen
 tag: The Liturgical Year
-location: New York, Columbia University, Rare Book and Manuscript Library, ÃŠPlimpton
+location: New York, Columbia University, Rare Book and Manuscript Library, Plimpton
   MS 040B, f. 1r
 location_short: Plimpton MS 040B, f. 1r
 description: A gradual from 15th-century Italy with an inordinately large historiated

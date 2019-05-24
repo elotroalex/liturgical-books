@@ -3,7 +3,7 @@ pid: uts3
 label: Office Combining Proper and Common Chants
 tag: Common versus Proper
 location: New York, Columbia University, Burke Library at Union Theological Seminary,
-  ÃŠUTS MS 003, f. 219r
+  UTS MS 003, f. 219r
 location_short: UTS MS 003, f. 219r
 description: A missal from 15th-century Germany, where the service for Magnus, 'apostle
   of the Allgäu' (Bavaria, 6 September), is contained partially here in the sanctorale

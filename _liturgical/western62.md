@@ -2,7 +2,7 @@
 pid: western62
 label: Mass Prayers with Sung Chants Indicated by Smaller Script
 tag: Books of the Mass
-location: New York, Columbia University, Rare Book and Manuscript Library, ÃŠWestern
+location: New York, Columbia University, Rare Book and Manuscript Library, Western
   MS 062, f. 2v
 location_short: Western MS 062, f, 2v
 description: A missal from 15th-century Germany.

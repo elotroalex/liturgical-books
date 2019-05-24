@@ -2,7 +2,7 @@
 pid: plimp176
 label: Calendar Commemorating the Dedication of a Church
 tag: Calendar
-location: New York, Columbia University, Rare Book and Manuscript Library, ÃŠPlimpton
+location: New York, Columbia University, Rare Book and Manuscript Library, Plimpton
   MS 176, f. 5r
 location_short: Plimpton MS 176, f. 5r
 description: A calendar produced in Switzerland in 1426, with the Dedication of the
