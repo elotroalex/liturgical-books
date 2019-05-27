@@ -1,6 +1,6 @@
 ---
 pid: plimpton254_mar
-label: March
+label: 'Kalendarium: March'
 tag: A Complete Calendar
 location: New York, Columbia University, Rare Book and Manuscript Library,  Plimpton
   MS 254, f. 3r March

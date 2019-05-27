@@ -1,6 +1,6 @@
 ---
 pid: plimpton254_may
-label: May
+label: 'Kalendarium: May'
 tag: A Complete Calendar
 location: New York, Columbia University, Rare Book and Manuscript Library,  Plimpton
   MS 254, f. 4r May

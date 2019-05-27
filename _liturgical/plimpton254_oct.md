@@ -1,6 +1,6 @@
 ---
 pid: plimpton254_oct
-label: October
+label: 'Kalendarium: October'
 tag: A Complete Calendar
 location: New York, Columbia University, Rare Book and Manuscript Library,  Plimpton
   MS 254, f. 6v October
