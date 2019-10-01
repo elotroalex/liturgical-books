@@ -1,6 +1,6 @@
 ---
 pid: plimpton254_sept
-label: September
+label: 'Kalendarium: September'
 tag: A Complete Calendar
 location: New York, Columbia University, Rare Book and Manuscript Library,  Plimpton
   MS 254, f. 6r September

@@ -2,13 +2,9 @@
 pid: beinecke1184
 label: 'The Olivetan Gradual '
 tag: Books of the Mass
-location: New Haven, Yale University, Beinecke Rare Book and Manuscript Library, MS
-  1184
+location: "New Haven, Yale University, Beinecke Rare Book and Manuscript Library, MS 1184"
 location_short: Beinecke MS 1184
-description: The Olivetan Gradual (Beinecke MS 1184) is a stunning 15th-century example
-  of the gradual, a liturgical book containing the musical components of the Mass
-  in written notation. (Reproduction courtesy of the Beinecke Rare Book & Manuscript
-  Library)
+description: "This illumination from the 15th-century Olivetan Gradual (Beinecke MS 1184) shows monks singing from a gradual, which contains chants for the Mass."
 scriptorium: n/a
 scriptorium_metadata: n/a
 manifest: "/img/derivatives/iiif/beinecke1184/manifest.json"

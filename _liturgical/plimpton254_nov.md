@@ -1,6 +1,6 @@
 ---
 pid: plimpton254_nov
-label: November
+label: 'Kalendarium: November'
 tag: A Complete Calendar
 location: New York, Columbia University, Rare Book and Manuscript Library,  Plimpton
   MS 254, f. 7r November
